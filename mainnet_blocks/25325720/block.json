@@ -1,0 +1,12 @@
+{
+  "number": 25325720,
+  "coinbase": "0x4838b106fce9647bdf1e7877bf73ce8b0bad5f97",
+  "timestamp": 1781560415,
+  "gas_limit": 60000000,
+  "basefee": 75897992,
+  "difficulty": "0x0",
+  "prevrandao": "0xe2561d60e171084edc47bc09a1c6f8f0240c7b0bca95be84e65e44bcbeac787a",
+  "excess_blob_gas": 178781260,
+  "chain_id": 1,
+  "spec_id": "Prague"
+}
